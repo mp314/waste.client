@@ -130,3 +130,13 @@ dmypy.json
 
 #Visual Studio Code
 .vscode/
+
+*~
+*.pyc
+*.log
+*.cache
+*.pid
+*.brain
+*.pkl
+topics.txt
+autoload
