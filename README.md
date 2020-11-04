@@ -1,2 +1,2 @@
 # waste.client
-Waste.d client
+Waste.d client (IRCbot)
